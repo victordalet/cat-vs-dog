@@ -1,2 +1,2 @@
-# cat-vs-dog
-exercice of deep learning (visual recognition)
+# deep_learning_trai
+ft for deep learning
